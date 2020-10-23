@@ -8,8 +8,12 @@ last_updated: October 22, 2020
 
 **ACF Regionals** is ACF's regular-difficulty tournament and qualifier for ACF Nationals. Regionals prepares teams to ramp up to Nationals difficulty while still providing a rigorous qualifying experience.
 
-## 2021 ACF Regionals
+### 2021 ACF Regionals
 2021 ACF Regionals will be held on January 30, 2021. 
+
+{: .no_toc}
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 ### Announcement
 This is the official announcement for ACF Regionals 2021, which will take place on January 30, 2021. It will be head edited by Jaimie Carlson and edited by Annabelle Yang, Hari Parameswaran, Hasna Karim, Jonathan Tran, Jordan Brownstein, Michael Kearney, Natan Holtzman, Nick Dai, Nitin Rao, Stephen Eltinge, and Tim Morrison.
@@ -74,27 +78,26 @@ If you have any questions about hosting or about the form, contact ACF’s Mirro
 
 Mirrors will by default be regional. One benefit of online tournaments, however, is that smaller sites can be condensed without creating transportation barriers. ACF reserves the right to move teams and staffers between sites. ACF intends to mirror 2021 ACF Regionals in the following [regions](https://acf-quizbowl.com/hosting-guidelines/#regions-according-to-acf):
 
-Northeast:
-Upper Mid-Atlantic:
-Lower Mid-Atlantic:
-Southeast:
-Florida:
-Great Lakes:
-Midwest:
-North:
-South Central:
-Mountain West:
-Northern California:
-Southern California:
-Northwest:
-Eastern Canada:
-United Kingdom:
-
-High-school-only sites:
+- Northeast:
+- Upper Mid-Atlantic:
+- Lower Mid-Atlantic:
+- Southeast:
+- Florida:
+- Great Lakes:
+- Midwest:
+- North:
+- South Central:
+- Mountain West:
+- Northern California:
+- Southern California:
+- Northwest:
+- Eastern Canada:
+- United Kingdom:
+- High-school-only sites:
 
 ### Further Questions
 
-If you have any further questions, please send them to Jaimie Carlson at regionals@acf-quizbowl.com.
+If you have any further questions, please send them to Jaimie Carlson at [regionals@acf-quizbowl.com](mailto:regionals@acf-quizbowl.com).
 
 
 
